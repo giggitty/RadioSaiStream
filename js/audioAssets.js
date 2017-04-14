@@ -4,19 +4,19 @@
 var audioData = [
     {
         'title' : 'Bhajan Stream',
-        'url'   : 'http://stream.radiosai.net:8000/'
+        'url'   : 'http://www.radiosai.org/Pages/BhajanStream.pls'
     },
     {
         'title' : 'Discource Stream',
-        'url'   : 'http://stream.radiosai.net:8008/'
+        'url'   : 'http://www.radiosai.org/Pages/DiscourseStream.pls'
     },
     {
         'title' : 'Telugu Stream',
-        'url'   : 'http://stream.radiosai.net:8020/'
+        'url'   : 'http://www.radiosai.org/Pages/TeluguStream.pls'
     },
     {
         'title': 'America Stream',
-        'url': 'http://stream.radiosai.net:8006/'
+        'url': 'http://www.radiosai.org/Pages/AmeriStream.pls'
     }
 ];
 
