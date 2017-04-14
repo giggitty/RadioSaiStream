@@ -29,7 +29,7 @@ exports.handler = function(event, context, callback){
     }
     catch (e)
     {
-        content.fail("Exception: " + e);
+        context.fail("Exception: " + e);
     }
     
 };
